@@ -1,6 +1,6 @@
 # Introduction to AWS
 
-**#What is cloud**
+**#What is cloud:**
 
 1.By using the concept of virtualization you can create a virtual machine in any part of the world and you can share it with others.
 
